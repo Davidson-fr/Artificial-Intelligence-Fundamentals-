@@ -80,6 +80,8 @@ O número de clusters pode ser ajustado com --k <numero>.
 Se o CSV de entregas já existir, ele será usado; caso contrário, será gerado automaticamente.
 
 
+Observação:
 
+Os arquivos das pastas outputs e data estão como exemplo, uma vez que rodei o programa para verificar a funcionalidade do script. Caso o senhor deseje verificar e testar o programa apague os arquivos gerados por mim e mude os parametros. 
 
 
